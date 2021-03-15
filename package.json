@@ -1,6 +1,6 @@
 {
-  "name": "@devconstructor/input-search",
-  "version": "1.0.0",
+  "name": "dh-input-search",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [ "dist", "README.md" ],

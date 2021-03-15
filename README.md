@@ -3,4 +3,4 @@
 A library of React components created using `create-react-app`.
 
 ## Installation
-Run the following command: `npm install @devconstructor/input-search`
+Run the following command: `npm install dh-input-search`
