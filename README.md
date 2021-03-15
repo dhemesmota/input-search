@@ -1,4 +1,4 @@
-# simple-component-library
+# input-search
 
 A library of React components created using `create-react-app`.
 
